@@ -1,0 +1,84 @@
+/* https://colorhunt.co/palette/181c143c3d37697565ecdfcc
+ * https://colorhunt.co/palette/1e201e3c3d37697565ecdfcc
+ * https://colorhunt.co/palette/f8f3d9ebe5c2b9b28a504b38
+ */
+h1 {
+	margin-bottom: 0%;
+	margin-top: 0%;
+	
+}	
+h2 {
+	margin-bottom: 0%;
+	margin-top: 0%;
+
+}	
+h3 {
+	margin-bottom: 0%;
+	margin-top: 0%;
+}	
+h4 {
+	margin-bottom: 0%;
+	margin-top: 0%;
+}
+hr {
+	margin-bottom: 0.2%;
+	margin-top: 0.4%;
+	border: 2px solid #504b38;
+}
+p {
+	margin-bottom: 1%;
+	margin-top: 1%;
+}
+pre {
+	margin-bottom: 1%;
+	margin-top: 1%;
+	font-family: Verdana;
+}
+ul {
+	margin-bottom: 1%;
+	margin-top: 0%;
+}
+body {
+	background-color: #f8f3d9;
+	color: #504b38;
+	font-family: Verdana;
+}
+
+img {
+	border: 5px solid #504b38;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	width: 15em;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+a {
+	font-family: Verdana;
+	color: #57837B;
+	text-decoration: none;
+	font-weight: bold;
+	text-decoration-line: underline;
+	text-decoration-thickness: 1px;
+	transition: 0.2s;
+}
+
+a:visited {
+	color: #515E63
+}
+
+a:hover {
+	text-decoration-line: underline;
+	text-decoration-thickness: 3px;
+}
+
+a:after {
+	text-decoration-line: none;
+	text-decoration-thickness: 0px;
+	transition: 0.2s;
+	transition: 1s;
+}
+
+
+
