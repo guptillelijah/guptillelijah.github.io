@@ -23,32 +23,36 @@ h4 {
 hr {
 	margin-bottom: 0.2%;
 	margin-top: 0.4%;
-	border: 2px solid #504b38;
+	border: 0.35vh solid #504b38;
 }
 p {
-	margin-bottom: 1%;
-	margin-top: 1%;
+	margin-bottom: .75vh;
+	margin-top: .75vh;
 }
 pre {
 	margin-bottom: 1%;
-	margin-top: 1%;
+	margin-top: .75vh;
 	font-family: Verdana;
 }
 ul {
-	margin-bottom: 1%;
+	margin-bottom: .75vh;
 	margin-top: 0%;
 }
 body {
 	background-color: #f8f3d9;
 	color: #504b38;
 	font-family: Verdana;
+	word-break: break-word;
+	margin-right: 1vh;
+	margin-left: 1vh;
+	hyphens: auto;
 }
 
 img {
-	border: 5px solid #504b38;
-	margin-top: 1%;
-	margin-bottom: 1%;
-	width: 15em;
+	border: 0.75vh solid #504b38;
+	margin-top: 0.75vh;
+	margin-bottom: 0.75vh;
+	width: 30vh;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
@@ -62,6 +66,7 @@ a {
 	text-decoration-line: underline;
 	text-decoration-thickness: 1px;
 	transition: 0.2s;
+	overflow-wrap: anywhere;
 }
 
 a:visited {
@@ -82,3 +87,6 @@ a:after {
 
 
 
+div {
+	width: vw;
+}
