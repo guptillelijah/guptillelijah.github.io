@@ -26,8 +26,8 @@ hr {
 	border: 0.35vh solid #504b38;
 }
 p {
-	margin-bottom: .75vh;
-	margin-top: .75vh;
+	margin-bottom: 1vh;
+	margin-top: 1vh;
 }
 pre {
 	margin-bottom: 1%;
@@ -90,3 +90,4 @@ a:after {
 div {
 	width: vw;
 }
+
