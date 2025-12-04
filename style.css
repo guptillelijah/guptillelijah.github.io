@@ -28,6 +28,9 @@ hr {
 p {
 	margin-bottom: 1vh;
 	margin-top: 1vh;
+	hyphens: auto;
+	margin-right: 1vh;
+	margin-left: 1vh;
 }
 pre {
 	margin-bottom: 1%;
